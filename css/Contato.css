@@ -1,0 +1,44 @@
+*{
+	margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+span {
+    color: #7c67da;
+}
+
+head{
+    background: #715dc7;
+    height: 100px;
+}
+
+.Contato h1{
+    height: auto;
+    margin: 20px 0px 20px;
+    top: 0;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+} 
+
+h2{
+    height: auto;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}
+
+h3{
+    height: auto;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}
+
+h4{
+    height: auto;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}

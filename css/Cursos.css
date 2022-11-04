@@ -1,0 +1,31 @@
+*{
+	margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+span {
+    color: #f9004d;
+}
+.Cursos h1{
+    height: auto;
+    font-size: 40px;
+    top: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+} 
+.link-as-button{
+    font-size: 20px;
+    top: 0;
+	appearance: button;
+    font-family: 'Josefin Sans', sans-serif;
+	background-color: #2e2d2d;
+    color: #7c67da;
+    text-decoration: none;
+    border: 2px solid;
+    font-weight: bold;
+    padding: 13px 20px;
+    border-radius: 10px;
+	cursor: pointer;
+}

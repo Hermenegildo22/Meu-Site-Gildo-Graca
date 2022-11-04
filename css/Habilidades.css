@@ -1,0 +1,58 @@
+*{
+	margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+span {
+    color: #7c67da;
+}
+
+.Habilidades h1{
+    left: 8%;
+    height: auto;
+    margin: 20px 0px 20px;
+    font-size: 40px;
+    top: 50%;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+} 
+
+h2{
+    height: auto;
+    left: 100;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}
+
+h3{
+    height: auto;
+    left: 100;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}
+
+h4{
+    height: auto;
+    left: 100;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}
+h5{
+    height: auto;
+    left: 100;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
