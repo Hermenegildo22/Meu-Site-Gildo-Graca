@@ -5,6 +5,7 @@
 body{
 	margin: 0rem;
     padding: 0;
+	background-color: #0c2b2e;
     box-sizing: border-box;
 
 }.imagem-principal{
@@ -25,9 +26,8 @@ body{
 	width: 100%;
 	margin: 0rem;
 	box-sizing: border-box;
-	background-size: cover;
 	background-position: center;
-	background:#000000;
+	background:#0c2b2e;
 }
 nav{
 	display: flex;
@@ -182,9 +182,8 @@ button:hover{
 	cursor: pointer;
 }
 .service{
-	background: #101010;
-	width: 100%;
-	padding: 100px 0px;
+	background: #0c2b2e;
+	
 }
 .title h2{
 	color: white;
@@ -208,7 +207,6 @@ button:hover{
 	background: #191919;
 	border-radius: 20px;
 	margin: 15px;
-	position: center;
 	overflow: hidden;
 	text-align: center;
 }	
@@ -276,10 +274,9 @@ h5{
 	cursor: pointer;
 }
 footer{
-	position: center;
 	width: 100%;
 	height: 400px;
-	background: #101010;
+	background: #0c2b2e;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -320,8 +317,8 @@ footer p:nth-child(2){
 	transition: .3s;
 }
 .end{
-	position: center;
 	color:#f9004d;
+	height: auto;
 	bottom: 35px;
 	font-size: 14px; 
 }
