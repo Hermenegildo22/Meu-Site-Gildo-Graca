@@ -1,12 +1,13 @@
 *{
 	margin: 20px;
+    font-family: 'Josefin Sans', sans-serif;
     padding: 0;
     box-sizing: border-box;
     background-color: #0c2b2e;
 }
 
 span {
-    color: #7c67da;
+    color: #f9004d;
 }
 
 .Habilidades h1{
@@ -19,40 +20,15 @@ span {
     color: #ffffff;
 } 
 
-h2{
-    height: auto;
-    left: 100;
-    font-size: 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #ffffff;
+#skills {
+    list-style-type: none;
+    color: white;
+    margin: 33px;
 }
 
-h3{
-    height: auto;
-    left: 100;
+#skills i {
+    width: 20px;
+    color: #7c67da;
+    margin: 10px;
     font-size: 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #ffffff;
 }
-
-h4{
-    height: auto;
-    left: 100;
-    font-size: 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #ffffff;
-}
-h5{
-    height: auto;
-    left: 100;
-    font-size: 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #ffffff;
-}
-
-
-
-
-
-
-

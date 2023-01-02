@@ -2,13 +2,15 @@
 	font-family: 'Josefin Sans', sans-serif;	
 	overflow-x: clip;
 }
+
 body{
 	margin: 0rem;
     padding: 0;
 	background-color: #0c2b2e;
     box-sizing: border-box;
 
-}.imagem-principal{
+}
+.imagem-principal{
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -209,7 +211,6 @@ button:hover{
     display: flex;
     justify-content: space-evenly;
     min-height: 400px;
-    align-content: stretch;
     flex-direction: row;
     flex-wrap: unset;
 }

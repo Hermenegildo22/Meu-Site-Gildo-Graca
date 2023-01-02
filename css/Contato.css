@@ -6,12 +6,7 @@
     background-color: #0c2b2e;
 }
 span {
-    color: #7c67da;
-}
-
-head{
-    background: #715dc7;
-    height: 100px;
+    color: #f9004d;
 }
 
 .Contato h1{
@@ -23,10 +18,16 @@ head{
     color: #ffffff;
 } 
 
-p{
-    height: auto;
-    font-size: 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: #ffffff;
+#contact {
+    list-style-type: none;
+    margin: 15px;
+    color: white;
+    font-size: 19px;
+}
+
+#contact i {
+    width: 50px;
+    color: #7c67da;
+    margin: -4px;
 }
 
