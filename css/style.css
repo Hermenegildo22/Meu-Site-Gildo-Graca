@@ -21,7 +21,7 @@ body{
 	left: 10px;
     border-radius: 5%;
     margin-top: -5px;
-	margin-left: 836px;
+	margin-left: 832px;
 }
 .hero{
 	height: 100vh;
@@ -411,6 +411,9 @@ footer p:nth-child(2){
 		width: 100%;
 		margin-left: 20px;
 		margin-top: 45px;
+	}
+	.end{
+		font-size: 12px; 
 	}
 
 }
